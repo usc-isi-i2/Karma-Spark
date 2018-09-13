@@ -1,0 +1,4 @@
+date	text	uri
+11/23/1899	Hey there ❤ ❤ ❤ See ya	1
+10/25/1990	Am  Emoji 😀 hi	2
+11/3/2001	ANother hand one ☝️	3

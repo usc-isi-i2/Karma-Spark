@@ -1,0 +1,6 @@
+digSparkUtil==1.0.23
+digTokenizer==1.0.13
+digLshClustering==0.1.18
+digStylometry==0.1.9
+digEntityMerger==0.4
+requests
